@@ -1,2 +1,2 @@
 # ArduinoRobot
-These are Arduino libs that i created to build a robot
+These are Arduino libs that I created to build a robot that
